@@ -1,9 +1,19 @@
        #map {
         height: 400px;
-        width: 75%;
+        width: 60%;
        }
 
        .dogPhoto {
         height: 100px;
         width: 100px;
+       }
+
+       .bottomtoolbar {
+       	float:left;
+       	width:100%;
+       }
+       .floatLeft {
+       	float:left;
+       	display:inline-block;
+       	width:100%;
        }
